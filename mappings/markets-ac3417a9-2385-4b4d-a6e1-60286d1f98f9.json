@@ -1,0 +1,31 @@
+{
+  "id" : "ac3417a9-2385-4b4d-a6e1-60286d1f98f9",
+  "name" : "markets",
+  "request" : {
+    "url" : "/markets?currency=jpy&id=bitcoin",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 301,
+    "body" : "<html><body>You are being <a href=\"https://api.coingecko.com/en/markets\">redirected</a>.<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" data-cf-beacon='{\"rayId\":\"60ede2c6aa223778\",\"version\":\"2020.12.2\",\"si\":10}'></script>\n</body></html>",
+    "headers" : {
+      "Date" : "Sat, 09 Jan 2021 11:40:51 GMT",
+      "Content-Type" : "text/html",
+      "Set-Cookie" : "__cfduid=de89240eb02938df1477034e4fae5ce4f1610192451; expires=Mon, 08-Feb-21 11:40:51 GMT; path=/; domain=.coingecko.com; HttpOnly; SameSite=Lax",
+      "Location" : "https://api.coingecko.com/en/markets",
+      "Vary" : "Accept-Encoding, Origin",
+      "Cache-Control" : "no-cache",
+      "X-Request-Id" : "56c1ede9-5dcb-451c-a6e1-33448cbe6fc2",
+      "X-Runtime" : "0.001405",
+      "Alternate-Protocol" : "443:npn-spdy/2",
+      "CF-Cache-Status" : "MISS",
+      "cf-request-id" : "07888c102d0000377884339000000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "60ede2c6aa223778-MEL"
+    }
+  },
+  "uuid" : "ac3417a9-2385-4b4d-a6e1-60286d1f98f9",
+  "persistent" : true,
+  "insertionIndex" : 8
+}

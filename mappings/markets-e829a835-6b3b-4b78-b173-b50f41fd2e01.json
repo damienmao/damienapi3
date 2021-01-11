@@ -1,0 +1,31 @@
+{
+  "id" : "e829a835-6b3b-4b78-b173-b50f41fd2e01",
+  "name" : "markets",
+  "request" : {
+    "url" : "/markets?currency=aud&id=bitcoin",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 301,
+    "body" : "<html><body>You are being <a href=\"https://api.coingecko.com/en/markets\">redirected</a>.</body></html>",
+    "headers" : {
+      "Date" : "Sat, 09 Jan 2021 11:41:20 GMT",
+      "Content-Type" : "text/html",
+      "Set-Cookie" : "__cfduid=d111bf367d2023d217e808deea17897591610192480; expires=Mon, 08-Feb-21 11:41:20 GMT; path=/; domain=.coingecko.com; HttpOnly; SameSite=Lax",
+      "Location" : "https://api.coingecko.com/en/markets",
+      "Vary" : "Accept-Encoding, Origin",
+      "Cache-Control" : "no-cache",
+      "X-Request-Id" : "10f0db1b-4580-43f1-8d6d-c1f840eca680",
+      "X-Runtime" : "0.002050",
+      "Alternate-Protocol" : "443:npn-spdy/2",
+      "CF-Cache-Status" : "MISS",
+      "cf-request-id" : "07888c7faf000037786c976000000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "60ede379191e3778-MEL"
+    }
+  },
+  "uuid" : "e829a835-6b3b-4b78-b173-b50f41fd2e01",
+  "persistent" : true,
+  "insertionIndex" : 9
+}

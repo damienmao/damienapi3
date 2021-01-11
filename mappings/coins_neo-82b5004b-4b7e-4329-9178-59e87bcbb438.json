@@ -1,0 +1,31 @@
+{
+  "id" : "82b5004b-4b7e-4329-9178-59e87bcbb438",
+  "name" : "coins_neo",
+  "request" : {
+    "url" : "/coins/neo",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 301,
+    "body" : "<html><body>You are being <a href=\"https://api.coingecko.com/en/coins/neo\">redirected</a>.</body></html>",
+    "headers" : {
+      "Date" : "Sat, 09 Jan 2021 11:24:34 GMT",
+      "Content-Type" : "text/html",
+      "Set-Cookie" : "__cfduid=d343f099cb42c0ddce38cee526ee742d91610191474; expires=Mon, 08-Feb-21 11:24:34 GMT; path=/; domain=.coingecko.com; HttpOnly; SameSite=Lax",
+      "Location" : "https://api.coingecko.com/en/coins/neo",
+      "Vary" : "Accept-Encoding, Origin",
+      "Cache-Control" : "no-cache",
+      "X-Request-Id" : "96a43ac4-2d1c-4bf0-95cc-056eb2a65d7c",
+      "X-Runtime" : "0.001581",
+      "Alternate-Protocol" : "443:npn-spdy/2",
+      "CF-Cache-Status" : "MISS",
+      "cf-request-id" : "07887d280b00003772b3b46000000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "60edcaecdd1f3772-MEL"
+    }
+  },
+  "uuid" : "82b5004b-4b7e-4329-9178-59e87bcbb438",
+  "persistent" : true,
+  "insertionIndex" : 5
+}

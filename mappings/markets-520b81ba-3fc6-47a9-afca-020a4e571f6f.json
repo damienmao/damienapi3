@@ -1,0 +1,31 @@
+{
+  "id" : "520b81ba-3fc6-47a9-afca-020a4e571f6f",
+  "name" : "markets",
+  "request" : {
+    "url" : "/markets?currency=usd&id=neo",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 301,
+    "body" : "<html><body>You are being <a href=\"https://api.coingecko.com/en/markets\">redirected</a>.</body></html>",
+    "headers" : {
+      "Date" : "Sat, 09 Jan 2021 11:25:51 GMT",
+      "Content-Type" : "text/html",
+      "Set-Cookie" : "__cfduid=d696ed55132779d83a33a2139119957001610191551; expires=Mon, 08-Feb-21 11:25:51 GMT; path=/; domain=.coingecko.com; HttpOnly; SameSite=Lax",
+      "Location" : "https://api.coingecko.com/en/markets",
+      "Vary" : "Accept-Encoding, Origin",
+      "Cache-Control" : "no-cache",
+      "X-Request-Id" : "86e7732f-96aa-4f92-a36d-b94b429b9349",
+      "X-Runtime" : "0.001437",
+      "Alternate-Protocol" : "443:npn-spdy/2",
+      "CF-Cache-Status" : "MISS",
+      "cf-request-id" : "07887e54ec00003772b5286000000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "60edccce4c493772-MEL"
+    }
+  },
+  "uuid" : "520b81ba-3fc6-47a9-afca-020a4e571f6f",
+  "persistent" : true,
+  "insertionIndex" : 7
+}

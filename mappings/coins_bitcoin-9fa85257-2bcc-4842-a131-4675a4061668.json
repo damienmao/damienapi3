@@ -1,0 +1,31 @@
+{
+  "id" : "9fa85257-2bcc-4842-a131-4675a4061668",
+  "name" : "coins_bitcoin",
+  "request" : {
+    "url" : "/coins/bitcoin",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 301,
+    "body" : "<html><body>You are being <a href=\"https://api.coingecko.com/en/coins/bitcoin\">redirected</a>.</body></html>",
+    "headers" : {
+      "Date" : "Sat, 09 Jan 2021 06:28:36 GMT",
+      "Content-Type" : "text/html",
+      "Set-Cookie" : "__cfduid=dcc0d8a69d1ac0378d151627099a209291610173715; expires=Mon, 08-Feb-21 06:28:35 GMT; path=/; domain=.coingecko.com; HttpOnly; SameSite=Lax",
+      "Location" : "https://api.coingecko.com/en/coins/bitcoin",
+      "Vary" : "Accept-Encoding, Origin",
+      "Cache-Control" : "no-cache",
+      "X-Request-Id" : "0ce3a1e3-4849-491c-b973-dd3960e53a2d",
+      "X-Runtime" : "0.001377",
+      "Alternate-Protocol" : "443:npn-spdy/2",
+      "CF-Cache-Status" : "MISS",
+      "cf-request-id" : "07876e2dbd000017d0933b8000000001",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "60ec195c6a2917d0-MEL"
+    }
+  },
+  "uuid" : "9fa85257-2bcc-4842-a131-4675a4061668",
+  "persistent" : true,
+  "insertionIndex" : 14
+}
